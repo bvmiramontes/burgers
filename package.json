@@ -1,0 +1,26 @@
+{
+  "name": "burgers",
+  "version": "1.0.0",
+  "description": "GW Bootcamp week 14 homework",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bvmiramontes/burgers.git"
+  },
+  "author": "Beverly Miramontes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bvmiramontes/burgers/issues"
+  },
+  "homepage": "https://github.com/bvmiramontes/burgers#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "method": "^2.0.0",
+    "mysql": "^2.15.0"
+  }
+}
